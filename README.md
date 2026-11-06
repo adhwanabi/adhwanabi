@@ -145,7 +145,7 @@ const adhwa = {
 
 <a href="https://github.com/adhwanabi"><img src="https://img.shields.io/badge/GitHub-adhwanabi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/adhwa-nabila"><img src="https://img.shields.io/badge/LinkedIn-Adhwa%20Nabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/adhwanb"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://instagram.com/adhwanb_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:adhwanabila71@gmail.com"><img src="https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
